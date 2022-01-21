@@ -2,7 +2,7 @@
 - 👀 I’m interested in inovating new thingses
 - 🌱 I’m currently learning Java, Spring Boot, Hibernet, Android Development, Python
 - 💞️ I’m looking to collaborate on CODENZA TECHNOLOGIES
-- 📫 How to reach me 
+- 📫 How to reach me - CT21116@CODENZA.IN
 
 <!---
 CT21116/CT21116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
